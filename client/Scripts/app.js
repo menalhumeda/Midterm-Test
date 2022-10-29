@@ -1,5 +1,10 @@
 /* custom JS goes here */
 
+//File name:Faculties
+//StudentName:Menal Humeda
+//StudentID:301160220
+//Web App name:Faculty information
+
 /* pagination code from http://www.bootply.com/lxa0FF9yhw */
 $.fn.pageMe = function(opts){
     var $this = this,
